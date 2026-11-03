@@ -1,0 +1,6 @@
+{
+  "name": "Boutique Product & Price Manager",
+  "description": "Boutique product post creator with editable PKR prices for 12 collection items, image upload, and size selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "post-1",
+    "title": "The Emerald Muse Draped Silk Gown",
+    "price": 380,
+    "currency": "$",
+    "category": "Evening Couture",
+    "description": "An ethereal floor-length evening gown cut from double-faced mulberry silk in an opulent forest emerald hue. Features an asymmetric draped cowl neckline, sculpted waist gather, and a detachable artisan gold filigree waist belt. Designed for red-carpet galas and black-tie soirees.",
+    "imageUrl": "/src/assets/images/dress_emerald_silk_gown_1793679190889.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "Custom Fit"
+    ],
+    "fabricDetails": "100% Pure Mulberry Silk Crepe with Handcrafted Gilded Belt",
+    "createdAt": 1793506763874,
+    "status": "Available",
+    "isFeatured": true
+  },
+  {
+    "id": "post-2",
+    "title": "Artisanal Zardozi Hand-Embroidered Festive Dress",
+    "price": 620,
+    "currency": "$",
+    "category": "Bridal & Festive",
+    "description": "Bespoke heirloom creation displaying meticulous needlework. Delicate hand-sewn metallic gold rose motifs, micro-pearl sequins, and zardozi threadwork blossom across crisp ivory organza. Comes with lined silk underdress and tailored scalloped edges.",
+    "imageUrl": "/src/assets/images/dress_embroidered_festive_1793679190216.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "Custom Measurement"
+    ],
+    "fabricDetails": "Pure Ivory Organza with Metallic Zardozi & Freshwater Micro-Pearls",
+    "createdAt": 1793333963874,
+    "status": "Made-to-Order",
+    "isFeatured": true
+  },
+  {
+    "id": "post-3",
+    "title": "Rose Reverie Pleated Chiffon Maxi",
+    "price": 240,
+    "currency": "$",
+    "category": "Pret & Ready-to-Wear",
+    "description": "Soft, romantic movement captured in fluid micro-pleated chiffon. Characterized by a graceful V-neckline, voluminous poet sleeves with delicate elastic cuffs, and a breezy sweeping sunburst skirt in antique dusty rose. Perfect for afternoon soirees and garden receptions.",
+    "imageUrl": "/src/assets/images/dress_rose_chiffon_pret_1793679191306.jpg",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "fabricDetails": "Fine Airy Pleated Georgette Chiffon with Soft Modal Lining",
+    "createdAt": 1793636363874,
+    "status": "Available",
+    "isFeatured": false
+  }
+]
